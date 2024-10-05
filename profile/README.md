@@ -6,10 +6,11 @@ The best (and only) free tool that provides real-time aim assistance, tap assist
   <img src="./media/banner.png" style="width: 80%; height: auto;">
 </p>
 
-## Our Features
+## Our Features (Everyone)
 
 This is the current feature list, with much more to come!
 
+### Main Binary
 - [x] Universal Aim Assist
   - [x] Stable Compat
   - [x] Lazer Compat
@@ -26,6 +27,11 @@ This is the current feature list, with much more to come!
   - [x] Stable Compat
   - [ ] Lazer Compat
 - [ ] Cloud Configs
+
+### Account Generator (Donator)
+- [x] Low Quality Accounts 
+- [x] High Quality Accounts
+- [x] Ultra High Quality Accounts
 
 ## Showcase
 
