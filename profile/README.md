@@ -26,7 +26,9 @@ This is the current feature list, with much more to come!
 - [ ] Osu!Catch Bot
   - [x] Stable Compat
   - [ ] Lazer Compat
-- [ ] Cloud Configs
+- [ ] Config System
+  - [x] Local Configs
+  - [ ] Cloud Configs
 
 ### Installer (Everyone)
 - [x] Auto-Install
