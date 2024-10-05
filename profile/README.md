@@ -30,6 +30,15 @@ This is the current feature list, with much more to come!
 ## Showcase
 
 Little showcase of the current menu and its features!
+### Videos
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=LUZMO2D1olg">
+    <img src="http://img.youtube.com/vi/LUZMO2D1olg/0.jpg" style="width: 65%; height: auto;">
+  </a>
+</p>
+
+### Images
 
 <p align="center">
   <img src="./media/aim.png" style="width: 65%; height: auto;">
