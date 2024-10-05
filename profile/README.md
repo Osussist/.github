@@ -1,5 +1,3 @@
-Here is an improved version of the README.md for the Osussist/.github repository, including details about the repositories within the organization:
-
 # Osussist
 
 The best (and only) free tool that provides real-time aim assistance, tap assistance, and ban bypassing for the rhythm game osu. It is fully undetectable by the osu anti-cheat and open-source, so you can see how it works and even make it better if you want.
