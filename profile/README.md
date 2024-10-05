@@ -11,8 +11,38 @@ The best (and only) free tool that provides real-time aim assistance, tap assist
 This is the current feature list, with much more to come!
 
 - [x] Universal Aim Assist
+  - [x] Stable Compat
+  - [x] Lazer Compat
 - [x] Semi-Legit Relax
+  - [x] Stable Compat
+  - [ ] Lazer Compat
 - [x] Built-in Spoofer
+  - [x] Temp Spoof
+  - [ ] Perm Spoof
 - [ ] Osu!Mania Bot
+  - [x] Stable Compat
+  - [ ] Lazer Compat
 - [ ] Osu!Catch Bot
+  - [x] Stable Compat
+  - [ ] Lazer Compat
 - [ ] Cloud Configs
+
+## Showcase
+
+Little showcase of the current menu features!
+
+<p align="center">
+  <img src="./media/aim.png" style="width: 65%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="./media/relax.png" style="width: 65%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="./media/spoofer.png" style="width: 65%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="./media/config.png" style="width: 65%; height: auto;">
+</p>
