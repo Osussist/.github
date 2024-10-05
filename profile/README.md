@@ -6,9 +6,9 @@ The best (and only) free tool that provides real-time aim assistance, tap assist
 
 This is the current feature list, with much more to come!
 
-- [x] Universal Aim assist
-- [x] Relax (only on stable)
+- [x] Universal Aim Assist
+- [x] Semi-Legit Relax
 - [x] Built-in Spoofer
-- [ ] Osu!Mania bot
-- [ ] Osu!Catch bot
+- [ ] Osu!Mania Bot
+- [ ] Osu!Catch Bot
 - [ ] Cloud Configs
