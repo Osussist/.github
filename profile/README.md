@@ -29,7 +29,7 @@ This is the current feature list, with much more to come!
 
 ## Showcase
 
-Little showcase of the current menu features!
+Little showcase of the current menu and its features!
 
 <p align="center">
   <img src="./media/aim.png" style="width: 65%; height: auto;">
