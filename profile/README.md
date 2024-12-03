@@ -51,6 +51,12 @@ Little showcase of the current menu and its features!
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Y7dO0ewaiqk">
+    <img src="http://img.youtube.com/vi/Y7dO0ewaiqk/0.jpg" style="width: 65%; height: auto;">
+  </a>
+</p>
+
 ### Images
 
 <p align="center">
